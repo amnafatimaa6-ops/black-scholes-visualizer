@@ -2,7 +2,23 @@
 # Black-Scholes Visual Explainer 
 
 A **visual interactive explorer** for European options using the **Black-Scholes model**.  
-This app allows you to explore **option prices and Greeks** with sliders for stock price, strike price, volatility, time to maturity, and risk-free rate.  
+This app allows you to explore **option prices and Greeks** with sliders for stock price, strike price, volatility, time to maturity, and risk-free rate. 
+## Quick Summary
+
+The **Black-Scholes model** is a mathematical tool used to calculate the **fair price of an option** — a contract that lets you buy or sell a stock at a fixed price in the future.  
+
+- **Call Option:** Right to buy  
+- **Put Option:** Right to sell  
+
+This app lets you **see how an option’s price changes** depending on:  
+- Stock price  
+- Volatility (how much the price jumps up or down)  
+- Time until the option expires  
+- Interest rates  
+
+It also shows **Greeks** — measures of how sensitive the option is to different market factors.  
+
+Think of it like a **weather map for option prices**: you can watch how different “conditions” affect the value. 🌤️💹
 
 ---
 ## Live Demo
