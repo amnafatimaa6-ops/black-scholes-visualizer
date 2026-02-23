@@ -15,8 +15,6 @@ You can interact with the 3D option price surface here:
 
 ### 3D Option Price Surface
 
-### Delta vs Stock Price
-*(Add screenshot of delta plot here if you have one)*
 
 ---
 
