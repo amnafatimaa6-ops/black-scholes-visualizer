@@ -18,7 +18,7 @@ This app lets you **see how an option’s price changes** depending on:
 
 It also shows **Greeks** — measures of how sensitive the option is to different market factors.  
 
-Think of it like a **weather map for option prices**: you can watch how different “conditions” affect the value. 🌤️💹
+Think of it like a **weather map for option prices**: you can watch how different “conditions” affect the value.
 
 ---
 ## Live Demo
